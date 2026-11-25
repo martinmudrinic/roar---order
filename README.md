@@ -21,13 +21,6 @@ Full-stack pizza ordering web application built with:
 - Receipt system
 - Database persistence
 
-## Admin Login
-
-Email:
-admin@example.com
-
-Password:
-admin123
 
 ## Setup
 
@@ -35,7 +28,3 @@ admin123
 2. Update database credentials in `dbConn.php`
 3. Open the project in browser
 
-## Live URL
-
-http://solace.ist.rit.edu/~yourusername/FinalProject/
-does not work :/
